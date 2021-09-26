@@ -1,6 +1,8 @@
 # Libraries
 *.lvlibp
 *.llb
+Thumbs.db*
+
 
 # Shared objects (inc. Windows DLLs)
 *.dll
@@ -15,3 +17,10 @@
 *.aliases
 *.lvlps
 .cache/
+.DS_Store
+
+# Deplyoment, distribution and build files
+builds
+distribution/vipm/*.vip
+distribution/working/*
+source/data/bin/*.*
