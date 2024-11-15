@@ -1,0 +1,3 @@
+distribution/**/*.vip
+!distribution/working/.gitkeep
+distribution/working/**
