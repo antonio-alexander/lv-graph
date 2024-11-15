@@ -53,8 +53,6 @@
 			<Item Name="scrollbar_index-point.vi" Type="VI" URL="../public/advanced/scrollbar_index-point.vi"/>
 			<Item Name="scrollbar_min_max-page.vi" Type="VI" URL="../public/advanced/scrollbar_min_max-page.vi"/>
 			<Item Name="scrollbar_min_max-point.vi" Type="VI" URL="../public/advanced/scrollbar_min_max-point.vi"/>
-			<Item Name="xy_graph_copy_format-normal.vi" Type="VI" URL="../public/advanced/xy_graph_copy_format-normal.vi"/>
-			<Item Name="xy_graph_copy_format-vertical.vi" Type="VI" URL="../public/advanced/xy_graph_copy_format-vertical.vi"/>
 		</Item>
 		<Item Name="templates" Type="Folder">
 			<Item Name="create_graph_horizontal.vit" Type="VI" URL="../public/templates/create_graph_horizontal.vit"/>
